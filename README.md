@@ -1,4 +1,4 @@
-# Operating Systems I - CSE UniWA Course 2024-2025
+# Operating Systems I
 A brief showcase of the curriculum:
 
 • **Introduction to operating systems** (definition, history, basic concepts, structure, layering, categories, etc.).  
